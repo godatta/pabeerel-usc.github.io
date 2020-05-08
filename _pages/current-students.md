@@ -5,19 +5,18 @@ permalink: /current-students/
 ## Current Students
 
 ### PhD Research Advisees
-- Akash Levy
-- Kathleen Feng
-- Jackson Melchert
-- Kalhan Koul
-- Haitong Li (Coadvised with H.-S. Philip Wong)
-- Weier Wan (Coadvised with H.-S. Philip Wong)
+- Sourya Dey
+- Huimei Cheng
+- Souvik Kundu
+- Gourav Datta
+- Dake Chen
+- Xi Li
 
 ### MS Research Advisees
-- Kartik Prabhu
+- Yunkun Li
 
 ### Undergraduate Research Advisees
-- Makena Low
-- Michael Oduoza
+- Patrick Griffin Morris
 
-### High School Students
-- Akhilesh Balasingam
+
+
